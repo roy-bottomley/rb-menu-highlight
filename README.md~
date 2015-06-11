@@ -1,15 +1,17 @@
 # rb-menu-highlight
 A simple wordpress plugin to highlight a menu item by zooming the menu text on mouse hover
 This is simply some javascript which detects a class on a div and zooms the text in the div on mouse enter and returns it to normal on mouse leave.
-<h3>Demo</h1>
-<a href="#">Coming Soon</a>
-<h3>Usage</h1>
-<ul>
-<li>download and install as a wordpress plugin</li>
-<li>add the class menu-rb-highlight to any menu item you wish to be highlighted</li>
-</ul>
+## Demo
+[Coming Soon] (#)
+## Usage
+1. download and install as a wordpress plugin</li>
+2. add the class menu-rb-highlight to any menu item you wish to be highlighted</li>
+
 The easiest way to add the class to a menu item in wordpress is in Appearance > Menus. 
+
 Select the menu item under Menu Structure and there should be an input 
-CSS Classes (optional).
-If this is not there use inder Screen Options at the top of the page check 
-CSS Classes
+*CSS Classes (optional).
+If this input is not visible then under 
+*Screen Options 
+at the top of the page check 
+*CSS Classes
